@@ -1,0 +1,6 @@
+{
+  "name": "Kembara Saraf Cilik",
+  "description": "Permainan Sains Interaktif Sistem Saraf Manusia (KBAT - KSSR Tahun 6) dengan maklum balas formatif digital dan penilaian kerangka 3E/KPPB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
